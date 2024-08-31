@@ -9,4 +9,11 @@ Good luck!<br /><br /><br /><br /><br /><br />
 
 
 A present of Dao Hong Phuc<br />
-2/9/2024<br />
+2/9/2024<br /><br /><br /><br /><br />
+
+
+Want to clone? Download git:<br />
+`sudo apt install git`
+<br />
+Then clone this repo<br />
+`git clone https://github.com/dhp5621/k7a2_public_2924`
